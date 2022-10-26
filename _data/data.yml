@@ -23,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@robbiekoski'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -44,14 +44,14 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Movies
+          link: 
 
-        - item: Snowboarding
-          link:
+        - item: Keyboards
+          link: 
 
-        - item: Cooking
-          link:
+        - item: CTFs
+          link: https://tryhackme.com/p/robzilla
 
 career-profile:
     title: Career Profile
@@ -75,7 +75,7 @@ education:
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
             - 3.880 GPA
-            - Dean's List - Fall 2018, Winter 2019, Spring 2019, Fall 2019, Winter 2020, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022
+            - Dean's List - Fall 2018 - 2020, Spring 2021, Fall 2021, Spring 2022
             - Dean's Letter - Spring 2020, Spring 2021, Fall 2021
             - Presidential Letter - Fall 2021
             - Affiliations - CISO (Cyber Intelligence and Security Organization)
