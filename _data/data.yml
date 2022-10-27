@@ -70,7 +70,7 @@ education:
             - Dean's List - Fall 2018 - Fall 2020, Spring 2021, Fall 2021, Spring 2022
             - Dean's Letter - Spring 2020, Spring 2021, Fall 2021
             - Presidential Letter - Fall 2021
-            - Affiliations - CISO (Cyber Intelligence and Security Organization) Test
+            - Affiliations - CISO (Cyber Intelligence and Security Organization)
 experiences:
     title: Experiences
     info:
@@ -79,7 +79,7 @@ experiences:
         company: San Bernardino City Unified School District
         details: |
           I worked collectively in a team of five interns where we handled various tasks ranging from repairing damaged student devices, 
-          managing live inventory systems, handling support tickets, and training with specialists to enhance experience.
+          managing live inventory systems, handling support tickets, and training with specialists to enhance our skills.
             - Lead the diagnose and repair of damaged smart devices to be redistributed
             - Responsible for storing and managing smart devices within inventory software
             - Handle support tickets at school sites regarding networking and computer hardware issues
@@ -88,12 +88,12 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      When I am not working or studying for certifications, I am usually researching and employing what I know through home several home projects.
+      These projects include installing new services on my home network, patch management on my home systems, and recently I've started to participate in TryHackMe
+      rooms to test my ability to enumerate and reverse engineer potential vulnerable systems.
     assignments:
       - title: Homelab
-        link: "#"
+        link: "https://robbiekoski.github.io/"
         tagline: "A purpose-built home network running many self-hosted services and applications such as HomeAssistant, Authelia, PiKVM and more."
 
       - title: TryHackMe CTF's
