@@ -188,7 +188,7 @@ p {
     margin-bottom: 2px;
   }
   .job-title,
-  .degree {
+  .university {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -197,13 +197,12 @@ p {
   }
   .time {
     position: absolute;
-    font-size: 16px;
     right: 0;
     top: 0;
     color: $text-grey;
   }
   .company,
-  .university {
+  .degree {
     margin-bottom: 10px;
     color: $text-grey;
   }
