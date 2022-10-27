@@ -83,9 +83,13 @@ experiences:
         time: <i>2021-2022</i>
         company: San Bernardino City Unified School DIstrict
         details: |
-          I worked collectively in a team of five interns where we handled many tasks ranging from 
-            - Bullet point
-            - Bullet point
+          I worked collectively in a team of five interns where we handled various tasks ranging from repairing damaged student devices, 
+          managing live inventory systems, handling support tickets, and training with specialists to enhance experience.
+            - Lead the diagnose and repair of damaged smart devices to be redistributed
+            - Responsible for storing and managing smart devices within inventory software
+            - Handle support tickets at school sites regarding networking and computer hardware issues
+            - Troubleshoot various networking issues using Fluke Networks Cable Analyzer and other enterprise networking equipment
+            - Trained on threat hunting spam and phishing emails sent to employees utilizing Google Admin console
 projects:
     title: Projects
     intro: >
@@ -97,7 +101,7 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: THM CTF's
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
@@ -110,7 +114,7 @@ publications:
       - title: CompTIA Security+
         link: "https://www.credly.com/badges/eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d/public_url"
         authors: "Issued Aug 2022 · Expires Aug 2025"
-        conference: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        conference:
 
       - title: CompTIA A+
         link: "https://www.credly.com/badges/81c2147a-257c-4a23-9d11-9bd7a3954630/public_url"
@@ -119,7 +123,7 @@ publications:
 
       - title: IBM Cybersecurity Pre-apprenticeship Certificate
         link: "https://www.credly.com/badges/30e22d14-4f9e-4022-87bb-6eb83e124ea9/public_url"
-        authors: "Issued: Apr 2022 · No Expiration Date"
+        authors: "Issued: Apr 2022 <b>·</b> No Expiration Date"
         conference:
 
       - title: Autopsy Basics and Hands On (8-Hours)
@@ -149,5 +153,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
