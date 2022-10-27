@@ -62,9 +62,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: <b>Bachelor of Science, Information Systems - Cyber Security</b>
+      - degree: Bachelor of Science, Information Systems - Cyber Security
         university: California State University, San Bernardino
-        time: <i>2018-2022</i>
+        time: 2018-2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,9 +79,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: <b>Student IT Intern</b>
-        time: <i>2021-2022</i>
-        company: San Bernardino City Unified School DIstrict
+      - role: Student IT Intern
+        time: 2021-2022
+        company: San Bernardino City Unified School District
         details: |
           I worked collectively in a team of five interns where we handled various tasks ranging from repairing damaged student devices, 
           managing live inventory systems, handling support tickets, and training with specialists to enhance experience.
