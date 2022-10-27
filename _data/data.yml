@@ -108,17 +108,17 @@ publications:
       Here are some that I have obtained so far:
     papers:
       - title: CompTIA Security+
-        link: "https://www.credly.com/earner/earned/badge/eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d"
+        link: "https://www.credly.com/badges/eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d/public_url"
         authors: "Issued Aug 2022 · Expires Aug 2025"
-        conference:
+        conference: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
       - title: CompTIA A+
-        link: "https://www.credly.com/earner/earned/badge/81c2147a-257c-4a23-9d11-9bd7a3954630"
+        link: "https://www.credly.com/badges/81c2147a-257c-4a23-9d11-9bd7a3954630/public_url"
         authors: "Issued Aug 2021 · Expires Aug 2025"
         conference:
 
       - title: IBM Cybersecurity Pre-apprenticeship Certificate
-        link: "https://www.credly.com/badges/30e22d14-4f9e-4022-87bb-6eb83e124ea9"
+        link: "https://www.credly.com/badges/30e22d14-4f9e-4022-87bb-6eb83e124ea9/public_url"
         authors: "Issued: Apr 2022 · No Expiration Date"
         conference:
 
