@@ -65,7 +65,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Bachelor of Science, Information Systems - Cyber Security
+      - degree: <b>Bachelor of Science, Information Systems - Cyber Security</b>
         university: California State University, San Bernardino
         time: 2018-2022
         details: |
