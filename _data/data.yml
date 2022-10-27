@@ -62,15 +62,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Bachelor of Science, Information Systems - Cyber Security
-        university: California State University, San Bernardino
+      - university: California State University, San Bernardino
+        degree: Bachelor of Science, Information Systems and Technology  - Cyber Security
         time: 2018-2022
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+        details:
             - 3.880 GPA
             - Dean's List - Fall 2018 - Fall 2020, Spring 2021, Fall 2021, Spring 2022
             - Dean's Letter - Spring 2020, Spring 2021, Fall 2021
