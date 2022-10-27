@@ -127,31 +127,33 @@ projects:
 publications:
     title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I am always striving to learn more and 
     papers:
       - title: CompTIA Security+
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        link: "https://www.credly.com/earner/earned/badge/eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d"
+        authors: "Issued: Aug 2022"
+        conference: "Expires: Aug 2025"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: CompTIA A+
+        link: "https://www.credly.com/earner/earned/badge/81c2147a-257c-4a23-9d11-9bd7a3954630"
+        authors: "Issued: Aug 2021"
+        conference: "Expires: Aug 2025"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: IBM Cybersecurity Pre-apprenticeship Certificate
+        link: "https://www.credly.com/badges/30e22d14-4f9e-4022-87bb-6eb83e124ea9"
+        authors: "Issued: Apr 2022"
+        conference: "Expires: N/A"
+
+      - title: Autopsy Basics and Hands On (8-Hours)
+        authors: "Issued: May 2020"
+        conference: "Expires: N/A:"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 60%
 
       - name: Javascript & jQuery
         level: 98%
