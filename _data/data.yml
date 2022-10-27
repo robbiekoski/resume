@@ -56,12 +56,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Recent information systems and technology graduate with a focus in cybersecurity interested in an information security analyst
+      position. Fast learner with the ability to understand new concepts, technologies, and recently discovered threats. Detail-oriented,
+      problem solver, and team player with outstanding communication and technical skills.
 education:
     title: Education
     info:
@@ -86,15 +83,7 @@ experiences:
         time: <i>2021-2022</i>
         company: San Bernardino City Unified School DIstrict
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          I worked collectively in a team of five interns where we handled many tasks ranging from 
             - Bullet point
             - Bullet point
 projects:
@@ -104,49 +93,39 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: Homelab
+        link: "#"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Certifications
     intro: |
-      I am always striving to learn more and 
+      I am always striving to enhance my understanding of cybersecurity and test my knowledge by obtaining certifications. 
+      Here are some that I have obtained so far:
     papers:
       - title: CompTIA Security+
         link: "https://www.credly.com/earner/earned/badge/eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d"
-        authors: "Issued: Aug 2022"
-        conference: "Expires: Aug 2025"
+        authors: "Issued Aug 2022 · Expires Aug 2025"
+        conference:
 
       - title: CompTIA A+
         link: "https://www.credly.com/earner/earned/badge/81c2147a-257c-4a23-9d11-9bd7a3954630"
-        authors: "Issued: Aug 2021"
-        conference: "Expires: Aug 2025"
+        authors: "Issued Aug 2021 · Expires Aug 2025"
+        conference:
 
       - title: IBM Cybersecurity Pre-apprenticeship Certificate
         link: "https://www.credly.com/badges/30e22d14-4f9e-4022-87bb-6eb83e124ea9"
-        authors: "Issued: Apr 2022"
-        conference: "Expires: N/A"
+        authors: "Issued: Apr 2022 · No Expiration Date"
+        conference:
 
       - title: Autopsy Basics and Hands On (8-Hours)
-        authors: "Issued: May 2020"
-        conference: "Expires: N/A:"
+        link: "https://dfir-training.basistech.com/certificates/gwbxebekek"
+        authors: "Issued: May 2020 · No Expiration Date"
+        conference:
 
 skills:
     title: Skills &amp; Proficiency
