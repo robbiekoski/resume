@@ -108,12 +108,12 @@ publications:
     papers:
       - title: CompTIA Security+
         link: "https://www.credly.com/badges/eb9f085f-a3b7-4db1-af6a-acaa5eaf1f0d/public_url"
-        authors: "Issued Aug 2022 · Expires Aug 2025"
+        authors: "Issued Aug 2022 <b>·</b> Expires Aug 2025"
         conference:
 
       - title: CompTIA A+
         link: "https://www.credly.com/badges/81c2147a-257c-4a23-9d11-9bd7a3954630/public_url"
-        authors: "Issued Aug 2021 · Expires Aug 2025"
+        authors: "Issued Aug 2021 <b>·</b> Expires Aug 2025"
         conference:
 
       - title: IBM Cybersecurity Pre-apprenticeship Certificate
@@ -123,7 +123,7 @@ publications:
 
       - title: Autopsy Basics and Hands On (8-Hours)
         link: "https://dfir-training.basistech.com/certificates/gwbxebekek"
-        authors: "Issued: May 2020 · No Expiration Date"
+        authors: "Issued: May 2020 <b>·</b> No Expiration Date"
         conference:
 
 skills:
@@ -131,22 +131,13 @@ skills:
 
     toolset:
       - name: Python
+        level: 70%
+
+      - name: Powershell
         level: 60%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: BurpSuite
+        level: 50%
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
