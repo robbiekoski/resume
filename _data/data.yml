@@ -41,17 +41,17 @@ sidebar:
     #     - idiom: Spanish
     #       level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Movies
-          link: 
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Movies
+    #       link: 
 
-        - item: Keyboards
-          link: 
+    #     - item: Keyboards
+    #       link: 
 
-        - item: CTFs
-          link: https://tryhackme.com/p/robzilla
+    #     - item: CTFs
+    #       link:
 
 career-profile:
     title: Career Profile
@@ -94,11 +94,11 @@ projects:
     assignments:
       - title: Homelab
         link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A purpose-built home network running many self-hosted services and applications such as HomeAssistant, Authelia, PiKVM and more."
 
-      - title: THM CTF's
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: TryHackMe CTF's
+        link: "https://tryhackme.com/p/robzilla"
+        tagline: "Check out my adventures attempting TryHackMe rooms and testing my ethical hacking skills using various tools."
 
 publications:
     title: Certifications
