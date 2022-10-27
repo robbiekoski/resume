@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: robbiekoski@gmail.com
     phone: (951) 236-2340
-    timezone: America/Cancun Timezone
+    timezone: #America/Cancun Timezone
     citizenship:
     website: robbiekoski.github.io #do not add http://
     linkedin: robbiekoski
@@ -23,7 +23,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: #'@robbiekoski'
+    twitter: #'@username'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -88,9 +88,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      When I am not working or studying for certifications, I am usually researching and employing what I know through home several home projects.
-      These projects include installing new services on my home network, patch management on my home systems, and recently I've started to participate in TryHackMe
-      rooms to test my ability to enumerate and reverse engineer potential vulnerable systems.
+      When I am not working or studying for certifications, I am usually researching and employing what I learn through several home projects.
+      These projects include installing managing my home network, performing patch management on my home systems, and more recently I've started to 
+      test my abilities to enumerate and reverse engineer potential vulnerable systems on TryHackMe.
     assignments:
       - title: Homelab
         link: "https://robbiekoski.github.io/"
