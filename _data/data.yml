@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
@@ -9,7 +5,7 @@ sidebar:
     # Profile information
     name: Robbie Koski
     tagline: Aspiring Cybersecurity Analyst
-    avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
     # Sidebar links
     email: robbiekoski@gmail.com
@@ -18,30 +14,6 @@ sidebar:
     linkedin: robbiekoski
     github: robbiekoski
     pdf: https://robbiekoski.github.io/resume/assets/files/resume.pdf
-
-    # languages:
-    #   title: Languages
-    #   info:
-    #     - idiom: English
-    #       level: Native
-
-    #     - idiom: French
-    #       level: Professional
-
-    #     - idiom: Spanish
-    #       level: Professional
-
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Movies
-    #       link: 
-
-    #     - item: Keyboards
-    #       link: 
-
-    #     - item: CTFs
-    #       link:
 
 career-profile:
     title: Career Profile
@@ -129,5 +101,5 @@ skills:
       - name: BurpSuite
         level: 50%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
