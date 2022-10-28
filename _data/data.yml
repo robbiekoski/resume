@@ -14,19 +14,9 @@ sidebar:
     # Sidebar links
     email: robbiekoski@gmail.com
     phone: (951) 236-2340
-    timezone: #America/Cancun Timezone
-    citizenship:
-    website: robbiekoski.github.io #do not add http://
+    website: robbiekoski.github.io
     linkedin: robbiekoski
-    xing: 
     github: robbiekoski
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: #'@username'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://robbiekoski.github.io/resume/assets/files/resume.pdf
 
     # languages:
@@ -94,7 +84,7 @@ projects:
     assignments:
       - title: Homelab
         link: "https://robbiekoski.github.io/"
-        tagline: "A purpose-built home network running many self-hosted services and applications such as HomeAssistant, Authelia, PiKVM and more."
+        tagline: "A purpose-built home network running useful self-hosted services and applications such as HomeAssistant, Authelia, PiKVM and more."
 
       - title: TryHackMe CTF's
         link: "https://tryhackme.com/p/robzilla"
